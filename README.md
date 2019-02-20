@@ -161,5 +161,5 @@ I add some code into DefaultInitializrMetadatabuilder to add all applied module 
 		return this;
 	}
   ```
-  I hoep that after applied one module to database an dependency it without no restart the application, how to do that?
-I need yours help, Thanks.
+ I hoep that after applied one module to database an dependency it without restart the application, or can update initializrMetadata's dependencies dynamically, how to do that?
+ I need yours help, Thanks.
